@@ -16,6 +16,7 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 - Bjørn Johansen
     - Tlf: 48237095
     - Mail: bjorn.l.johansen@uit.no
+
 #### TDs styre
 - Mail: td@list.uit.no
     
