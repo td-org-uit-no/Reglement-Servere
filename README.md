@@ -76,5 +76,5 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 
 - Teknisk ansvarlige har i utgangspunktet taushetsplikt om forhold som kan ramme tap av personvern, omdømme eller andre forhold.
 
-## §5 Sanksjoner og mislihold
+## §5 Sanksjoner og mislighold
 - Ved manglende etterkommelse av krav beskrevet i §3, vil utstyr kunne midlertidig eller permanent kobles fra TDs infrastruktur og fjernes, og dersom eier ikke melder seg innen rimelig tid, så vil utstyret bli lagret og til slutt tilfalle TDs eie.
