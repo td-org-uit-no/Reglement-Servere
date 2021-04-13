@@ -1,6 +1,6 @@
 # Reglement for servere plassert hos Tromsøstudentenes Dataforening(TD)
 
-_Endret: 2019-01-15_
+_Endret: 2021-04-09_
 
 
 
@@ -45,6 +45,7 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
     - IRC-servere
     - NTP-servere
     - E-post-servere
+    - RDP-servere
 
 - TDs servernett er omfattet av UiT og Uninetts grenseaksesslister og Uninett/Nordunets DDoS-beskyttelse. Medlemmer av TD forplikter seg til enhver tid å respektere disse, og det vil ikke være aktuelt å åpne opp i disse på grunnlag av ønsker fra TD.
 
