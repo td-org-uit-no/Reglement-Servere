@@ -10,12 +10,12 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 
 ### Kontaktinformasjon
 #### Teknisk Ansvarlig
-- Joakim Aalstad Alslie
-    - Tlf: 91315181
-    - Mail: Jal029@uit.no
-- Bjørn Johansen
-    - Tlf: 48237095
-    - Mail: bjorn.l.johansen@uit.no
+- Marius Ingebrigtsen
+    - Tlf: 957 04 108
+    - Mail: min016@uit.no
+- Finn Olav Sagen
+    - Tlf: 482 83 472
+    - Mail: fsa028@uit.no
 
 #### TDs styre
 - Mail: td@list.uit.no
