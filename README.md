@@ -1,6 +1,6 @@
 # Reglement for servere plassert hos Tromsøstudentenes Dataforening(TD)
 
-_Endret: 17.jan.2024_
+_Endret: 18.jan.2024_
 
 
 ## §1 Generell informasjon
