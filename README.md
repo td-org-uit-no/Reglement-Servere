@@ -1,8 +1,6 @@
 # Reglement for servere plassert hos Tromsøstudentenes Dataforening(TD)
 
-_Endret: 2021-04-09_
-
-
+_Endret: 17.jan.2024_
 
 
 ## §1 Generell informasjon
@@ -10,16 +8,14 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 
 ### Kontaktinformasjon
 #### Teknisk Ansvarlig
-- Marius Ingebrigtsen
-    - Tlf: 957 04 108
-    - Mail: min016@uit.no
-- Finn Olav Sagen
-    - Tlf: 482 83 472
-    - Mail: fsa028@uit.no
+- Jørgen Bårli
+    - Tlf: 46941444
+    - Mail: jba092@uit.no
+    - TD-mail: teknisk@td-uit.no
 
 #### TDs styre
 - Mail: td@list.uit.no
-    
+
 
 ## §2 Protokoller og standarder
 ### DNS
@@ -52,7 +48,9 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 
 - TDs nettverk, utstyr og infrastruktur er en delt ressurs, og det forventes av brukere av dette viser skjønn og hensyn ovenfor andre brukere. Dette vil si at applikasjoner og bruk som skaper hinder eller brudd for andre bør unngås.Dersom det oppstår situasjoner der utstyr eller applikasjoner skaper problemer, vil ansvarlig eier bli kontaktet for å rette problemet. Det forventes at ansvarlig eier retter seg etter forslag og pålegg fra teknisk ansvarlig hos TD.
 
-- Utstyr plassert i TDs infrastruktur er i utgangspunktet ment for personlig benyttelse for TDs medlemmer. Videreformidling av tilgang til utstyr til tredjepart i form av brukernavn/passord og lignende skal ikke foregå.
+- Tjenester som settes opp på utstyret må følge gjeldende lover og regler og ikke brukes til formål som kan skade institusjonens renommé. Det skal ikke settes opp kommersielle tjenester på utstyret eller anonymiseringstjenester som VPN eller Tor-noder. 
+
+- Utstyr plassert i TDs infrastruktur er i utgangspunktet ment for personlig benyttelse for TDs medlemmer. Videreformidling av tilgang til utstyr til tredjepart i form av brukernavn/passord og lignende skal ikke foregå. Dette innebærer at det kun er aktive studenter/ansatte ved UiT som kan være ansvarlig for utstyr på nett. Utstyr med kontaktadresse som ikke lenger finnes, vil bli fjernet fra utstyrsregisteret og aktuelt nettpunkt vil bli sperret.
 
 ## §3 Oppsett av utstyr
 - Alt utstyr som plasseres i TDs nettverk skal(med mindre annet er avtalt):
@@ -74,7 +72,6 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 - Servere skal sikres fra å gi uvedkommende tilgang, både fysisk og via nettverk. Eiere er selv ansvarlig for sikring, og manglende sikring eller avdekking av sikkerhetshull som kan sette driften av TD eller omkringliggende tjenester i fare er grunnlag for midlertidig eller permanent fjerning av maskinen fra TDs infrastruktur.
 - Enhver som plasserer sin server hos TD er selv jurisk ansvarlig for trafikk til og fra serveren, data som er lagret på denne, og hva den brukes til.
 - TD vil i utgangspunktet etterkomme forespørsler fra myndigheter om tilgang til, eller informasjon om utstyr som er plassert hos TD. Det antas at gjeldende myndighet er ansvarlig for avklaringer rundt informasjonsutlevering, og eventuelle forhold mellom nevnte myndighet og eier er å anse som en sak mellom disse to parter.
-
 - Teknisk ansvarlige har i utgangspunktet taushetsplikt om forhold som kan ramme tap av personvern, omdømme eller andre forhold.
 
 ## §5 Sanksjoner og mislighold
