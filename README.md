@@ -1,6 +1,6 @@
 # Reglement for servere plassert hos Tromsøstudentenes Dataforening(TD)
 
-_Endret: 18.jan.2024_
+_Endret: 03.Feb.2024_
 
 
 ## §1 Generell informasjon
@@ -54,7 +54,7 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 
 ## §3 Oppsett av utstyr
 - Alt utstyr som plasseres i TDs nettverk skal(med mindre annet er avtalt):
-    - Settes opp med DHCP for adressetildeling
+    - Settes opp med DHCP fra UiTs DHCP-tjenere
 	- Dersom utstyret eller på grunn av tjenestens art ikke støtter eller har mulighet til adressetildeling via DHCP, må dette avtales med teknisk ansvarlige hos TD i forkant av utplassering/idriftsettelse.
     - Settes opp til å svare på ICMP echo/reply for alle adresser tildelt av TD
     - Merkes med hostname, eiers/ansvarliges navn, telefonnummer og e-postadresse.
@@ -76,3 +76,4 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 
 ## §5 Sanksjoner og mislighold
 - Ved manglende etterkommelse av krav beskrevet i §3, vil utstyr kunne midlertidig eller permanent kobles fra TDs infrastruktur og fjernes, og dersom eier ikke melder seg innen rimelig tid, så vil utstyret bli lagret og til slutt tilfalle TDs eie.
+s
