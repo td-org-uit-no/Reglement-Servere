@@ -9,7 +9,6 @@ Reglementet for servere plassert hos Tromsøstudentenes Dataforening(TD) gjelder
 ### Kontaktinformasjon
 #### Teknisk Ansvarlig
 - Jørgen Bårli
-    - Tlf: 46941444
     - Mail: jba092@uit.no
     - TD-mail: teknisk@td-uit.no
 
